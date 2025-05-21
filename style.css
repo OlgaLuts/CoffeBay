@@ -78,3 +78,19 @@ body{
     color: #fff;
     font-size: 12px;
 }
+.hero{
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+}
+.hero-image img{
+    width: 100%;
+    max-width: 680px;
+    max-height: 520px;
+}
+.hero-image{
+    width: 100%;
+}
+.hero-dskr{
+     width: 100%;
+}
