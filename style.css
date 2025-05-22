@@ -149,15 +149,19 @@ padding-left: 33px;
 padding-right: 48px;
 background-color: #FF9900;
 border: none;
+display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.text{
-    font-family: Montserrat;
+.button-text{
+    width: 94;
+height: 20;
+font-family: Montserrat;
 font-weight: 500;
 font-size: 16px;
 line-height: 100%;
 letter-spacing: 0%;
 vertical-align: middle;
-width: 94;
-height: 20;
 color: #f8f8f8;
 }
+ 
