@@ -95,5 +95,56 @@ body{
      width: 100%;
 }
 .blue-text{
-    background-color: #0039DD;
+color: #0039DD;
+font-family: Montserrat;
+font-weight: 500;
+font-size: 12px;
+line-height: 130%;
+letter-spacing: 0%;
+vertical-align: middle;
+width: 80;
+height: 16;
+top: 336px;
+left: 837px;
+
+}
+.page-headline{
+font-family: Montserrat;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #282828;
+width: 444;
+height: 52;
+top: 349px;
+left: 834px;
+}
+.page-descr{
+font-family: Montserrat;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: middle;
+width: 480;
+height: 72;
+top: 419px;
+left: 837px;
+color: #282828;
+
+}
+.btn{
+  width: 174;
+height: 46;
+top: 506px;
+left: 837px;
+border-radius: 25px;
+gap: 10px;
+padding-top: 13px;
+padding-bottom: 13px;
+background-color: #FF9900;
+border: none;
+
 }
